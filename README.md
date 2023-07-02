@@ -6,7 +6,7 @@ coverY: -213.42553191489364
 
 # Normativas Generales
 
-1- Valora tu vida : Debes valorar tu vida por encima de todo, Un ejemplo de no valoración de vida sería empezar a correr cuando alguien ya te está apuntando.
+1- Valora tu vida : Debes valorar tu vida por encima de todo, Un ejemplo de no valoración de vida sería empezar a correr cuando alguien ya te está apuntan.
 
 2-In Character (IC): Todo lo que pasa dentro de la historia de nuestro personaje dentro del juego
 
