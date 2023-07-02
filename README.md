@@ -6,15 +6,7 @@ coverY: -213.42553191489364
 
 # Normativas Generales
 
-1- Valora tu vida : Debes valorar tu vida por encima de todo, Un ejemplo de no valoración de vida sería empezar a correr cuando alguien ya te está apuntando.
-
-2-In Character (IC): Todo lo que pasa dentro de la historia de nuestro personaje dentro del juego
-
-3- Out Of Character (OOC): Es todo lo que pasa, habla o realiza fuera de la vida de nuestro personaje fuera del juego&#x20;
-
-4- PowerGaming (PG); : Entendemos como PowerGaming cualquier acción que sobrepase los límites de la realidad.
-
-5- MetaGaming (MG): MetaGaming se considera el uso de información OOC a IC.&#x20;
+rmación OOC a IC.&#x20;
 
 6- DeathMatch (DM): Es el asesinato de otro usuario sin ninguna razón valida (Sin rol previo), para realizarlo tiene que haber un rol de peso como por ejemplo, debe dinero, peleas de bandas, entre otros, un ejemplo del DM es el matar a un usuario por simple entretenimiento.
 
